@@ -25,7 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Sou6161&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://blog.zegocloud.com/wp-content/uploads/2024/02/programming-meme-27.jpg' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sou6161&icon=5&color=6)](https://visitcount.itsvg.in)
