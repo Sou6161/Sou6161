@@ -1,33 +1,24 @@
-# 💫 About Me:
-### Hi there 👋<br><br>I'm a passionate full-stack developer with a knack for creating dynamic and user-friendly web applications. With a solid foundation in **HTML**, **CSS**, **JavaScript**, **React**, and **Redux**, I bring my designs to life with the help of **Tailwind CSS** for that extra flair.<br><br>🔭 I’m currently working on a project that leverages the power of React and Tailwind CSS to deliver an exceptional user experience.<br><br>🌱 I’m on a continuous learning journey, currently diving deeper into advanced front-end technologies and best practices.<br><br>💬 Ask me about anything related to front-end development - I love to collaborate and share knowledge!<br><br>👯 I’m looking to collaborate on open-source projects or start-ups that aim to make a difference.<br><br>🤝 I'm open to helping fellow developers, whether it's through code reviews, pair programming, or just general advice.<br><br>Let's connect and build something amazing together!<br>
+### hey, i'm sourabh
 
+i build web and mobile apps, mostly react / react native on the front and node + postgres on the back.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-saini-8b5706182) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDUwIDUwIj48dGV4dCB4PSI1IiB5PSI0MCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjM1IiBmaWxsPSIjZjZmNjI1Ij5TPC90ZXh0Pjwvc3ZnPg==)](https://sourabh-saini-portfolio.vercel.app/)
+right now i'm at designs field agency (remote). before that i was at lawyal tech, a legal-tech startup in stockholm.
 
+[imsrb.in](https://www.imsrb.in/) · [linkedin](https://www.linkedin.com/in/sourabhsaini6161/) · sourabh61saini@gmail.com
 
+### stuff i've built
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sou6161&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sou6161&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sou6161&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**[decodr](https://github.com/Sou6161/Decodr)** ([live](https://decodr-web.imsrb.in/))
+point it at a react codebase and it builds a dependency graph of your components using the typescript compiler api. when you ask it something it only sends the files that matter to the llm (usually 8-34) instead of the whole repo.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sou6161&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+**[gamelog](https://github.com/Sou6161/GameLog)** ([apk](https://drive.google.com/file/d/1cVEIssciKpSaWn_z4KB4_bqhQH2pYwmT/view?usp=drive_link))
+letterboxd but for games. react native + expo. imports your steam library in one go and matches most of it to igdb.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+**[watchly](https://github.com/Sou6161/Watchly)** ([apk](https://drive.google.com/file/d/1ym0XnEhKK6Z5o-ioWOwk8ciWxMHc5hnN/view?usp=drive_link))
+two people swipe through movie trailers and it shows the ones you both liked. react native, node, postgres.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sou6161&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
+### stack
 
-### 😂 Random Dev Meme
-<img src='https://blog.zegocloud.com/wp-content/uploads/2024/02/programming-meme-27.jpg' style="height: 400px;"/>
+typescript, react, next.js, react native (expo), node, express, postgres, prisma, tailwind, zustand
 
----
-[![](https://visitcount.itsvg.in/api?id=Sou6161&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sou6161&layout=compact&hide_border=true&theme=tokyonight" height="150" />
